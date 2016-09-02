@@ -1,7 +1,7 @@
 {
   "name": "getting-started-with-electron-1.0",
   "version": "0.1.0",
-  "description": "",
+  "description": "> [https://youtu.be/jKzBJAowmGg](https://youtu.be/jKzBJAowmGg)",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
